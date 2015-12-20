@@ -1,0 +1,2 @@
+# getLectureCancellation
+うちの大学の休講一覧をとってくる
